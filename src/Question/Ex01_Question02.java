@@ -6,7 +6,7 @@ import java.util.Scanner;
 //“Madam” is a Palindrome
 
 
-public class Question02 {
+public class Ex01_Question02 {
 
 	public static void main(String args[]) {
 		

@@ -12,7 +12,7 @@ import java.util.Arrays;
 //difference. Thereafter, sum the squares of differences calculated and divide by the number of elements
 //(10) and then find the square root.
 
-public class Question01 {
+public class Ex01_Question01 {
 
 	
 	public static void main(String args[]) {

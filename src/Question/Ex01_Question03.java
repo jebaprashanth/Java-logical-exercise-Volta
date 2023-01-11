@@ -3,7 +3,7 @@ package Question;
 
 import java.util.Arrays;
 
-public class Question03 {
+public class Ex01_Question03 {
 
 	public static void main(String[] args) {
 		int[] A = {1, 2, 3, 4, 5, 6};

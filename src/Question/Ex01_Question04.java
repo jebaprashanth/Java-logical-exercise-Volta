@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 
-public class Question04 {
+public class Ex01_Question04 {
     public static void main(String[] args) {
     	
     	
